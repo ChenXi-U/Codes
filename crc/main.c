@@ -120,9 +120,6 @@ int main()
     {
 		perror("funBccCreate err :");
     }
-    
-    printf("hello\n");
-
 
     return 0;
 }
